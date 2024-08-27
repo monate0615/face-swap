@@ -1,0 +1,1 @@
+python3 -m launch --xformers --skip-load-model-at-start --api --nowebui --listen --port=7860
